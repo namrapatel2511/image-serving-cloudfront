@@ -1,6 +1,6 @@
 # 📸 CloudPic
 
-![CloudPic](https://drive.google.com/file/d/1kSc3BLt0BGDepnZg4_k32dJ7ArPUZKQc/view?usp=sharing)  
+
 
 ## 🌟 Project Description
 
@@ -12,5 +12,5 @@ CloudPic is a web application that allows users to upload and display images usi
 - **Secure Storage**: Images are securely stored in an AWS S3 bucket.
 - **Content Distribution**: Images are served to users through AWS CloudFront for fast and reliable delivery.
 
-## 🏗️ Architecture
+
 
